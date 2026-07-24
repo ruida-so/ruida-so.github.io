@@ -3,8 +3,8 @@
     "name": "Zhao",
     "email": "zhao@example.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ruida-so.github.io",
+    "summary": "FinTech sophomore at Shenzhen University. Exploring AI and Finance.",
     "location": {
       "address": "Shenzhen, China"
     },
@@ -18,7 +18,16 @@
     "label": "FinTech Student"
   },
   "work": [],
-  "education": [],
+  "education": [
+    {
+      "institution": "Shenzhen University",
+      "area": "Financial Technology",
+      "studyType": "Bachelor",
+      "startDate": "2024-09",
+      "endDate": "",
+      "courses": []
+    }
+  ],
   "skills": [
     {
       "name": "Python",
@@ -27,6 +36,14 @@
     {
       "name": "AI/ML",
       "level": "Beginner"
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate"
     }
   ],
   "languages": [],
