@@ -26,7 +26,7 @@
 - [x] docs/design.md 完整
 - [x] docs/checklist.md 完整
 - [x] report/final-report.md 完整
-- [ ] screenshots/ 包含桌面端、手机端、Pages 部署截图
+- [x] screenshots/ 包含桌面端、手机端、Pages 部署截图
 
 ## 发布验证
 
