@@ -13,9 +13,7 @@ title: "Zhao | FinTech and AI"
 title_separator          : "-"
 name: &name "Zhao"
 description: &description "Zhao personal website - FinTech sophomore at Shenzhen University"
-url: https://ruida-so.github.io
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url: https://ruida-so.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io", baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository: "ruida-so/ruida-so.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,13 +22,13 @@ repository: "ruida-so/ruida-so.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-    name: "Zhao"
+  name             : "Zhao"
   pronouns         : # example: "she/her"  
-    bio: "FinTech sophomore at Shenzhen University. Exploring AI and Finance."
-    location: "Shenzhen, China"
-    employer: "Shenzhen University"
-    uri: "https://ruida-so.github.io"
-    email: "zhao@example.com" 
+  bio              : "FinTech sophomore at Shenzhen University. Exploring AI and Finance."
+  location         : "Shenzhen, China"
+  employer         : "Shenzhen University"
+  uri              : "https://ruida-so.github.io"
+  email            : "zhao@example.com" 
 
   # Academic websites
   academia         : # URL
