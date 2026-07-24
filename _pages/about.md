@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Zhao - FinTech & AI Explorer | Shenzhen University"
+title: "Zhao - FinTech and AI Explorer | Shenzhen University"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +18,7 @@ I am currently pursuing a Bachelor's degree in Financial Technology (FinTech) at
 - **Blockchain Technology** - Smart contracts, DeFi, and distributed ledger applications
 - **Data-Driven Decision Making** - Statistical analysis and predictive modeling for financial markets
 
-## Skills & Tools
+## Skills and Tools
 
 - **Programming**: Python, SQL, JavaScript (basic)
 - **AI/ML**: PyTorch basics, Scikit-learn, LLM prompt engineering
@@ -36,7 +37,6 @@ Feel free to reach out for collaboration or discussion!
 
 - GitHub: [ruida-so](https://github.com/ruida-so)
 - Email: zhao@example.com
-
 ---
 
 *This website is powered by the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template and hosted on GitHub Pages.*
